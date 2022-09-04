@@ -8,4 +8,4 @@ All Projects List :
 | Sr No | Name                                              | Link                                |
 | ----- | ------------------------------------------------- | ----------------------------------- |
 |  1.   |    Emotion Recognition with voice Input           |  https://github.com/sreejaboreddy/emotion-recognition-with-voice-input/blob/main/sem5miniproject.ipynb |          
-|  2.   |                             |  |
+|  2.   |    MapBox-API-Project                             |  https://github.com/sreejaboreddy/Mapbox-API-Project.git   |
